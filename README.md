@@ -1,4 +1,4 @@
-# Computational-Investing 
+Computational Investing with Python
 
 This repositary contains a comprehensive overview of essential concepts in modern investment strategies and portfolio management, all through the lens of Python programming. 
 The course begins by introducing foundational topics such as arithmetic and logarithmic return measurements, alongside various risk and reward measures including annualized returns, volatility, and ratios like Sharpe and Sortino. 
